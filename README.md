@@ -28,13 +28,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Contact:
 For any queries, please reach out to afthabsheikh11710@gmail.com
-
-
-
-
-
-
-
-
-
-ChatGPT can make 
